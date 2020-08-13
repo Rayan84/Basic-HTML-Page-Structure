@@ -14,11 +14,11 @@ Getting Started
 
 Prerequisites for getting a local copy are Git, Github profile and Text editor.
 
-bust_in_silhouette Author1:
+Author1:
 
 Github: Rayan84
 
-bust_in_silhouette Author2:
+Author2:
 
 Github: GzimAsani
 
